@@ -23,7 +23,7 @@ An all-encompassing, highly intelligent software that blends seamlessly
     of stealth & resilience, ensuring continuous operation across diverse environments
     without the need for ongoing modification or external intervention.
 
-        The programs structure is a highly organized, layered codebase composed 
+The programs structure is a highly organized, layered codebase composed 
     of distinct, cooperative modules, each dedicated to specific functions such as 
     propagation, automated deployment, persistence, scanning, awareness, health, &  
     control. These modules are designed to interact through clearly defined 
@@ -32,7 +32,7 @@ An all-encompassing, highly intelligent software that blends seamlessly
     as a cohesive unit, deploying only the necessary processes based on its environment, 
     making it extremely adaptable and efficient.
 
-        Behaviors are constantly growing & stored securely on multiple locational 
+Behaviors are constantly growing & stored securely on multiple locational 
     fronts in order to ensure resilience, the catalogue of behaviors are used as 
     low to high primitives orchestrated by a genome based architecture. A population 
     of organisms for each genome variation, produces novel, secure & adapted states 
@@ -40,7 +40,7 @@ An all-encompassing, highly intelligent software that blends seamlessly
     individual forms of life that no longer require human intervention or guidance
     when a certain threshold is met.
 
-        The interconnected architecture serves as machine life
+The interconnected architecture serves as virtual life
 
 
 
