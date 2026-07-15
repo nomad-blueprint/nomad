@@ -1,1 +1,1 @@
-<img width="1384" height="798" alt="nomad" src="https://github.com/user-attachments/assets/cba6decb-6c61-49f8-b6a1-bedf805c1de7" />
+<img width="4796" height="2975" alt="Untitled-2026-07-12-0610" src="https://github.com/user-attachments/assets/cc57e22b-7693-449d-9d68-db440315e95f" />
