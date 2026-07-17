@@ -1,2 +1,1 @@
-
-<img width="12800" height="8667" alt="Untitled-2026-07-12-0610" src="https://github.com/user-attachments/assets/1594ae5d-0999-4849-aa79-4b62a43c610d" />
+<img width="14915" height="10234" alt="ggg1" src="https://github.com/user-attachments/assets/e54d4473-ca10-4c8f-97ae-8134c7ddfbd9" />
